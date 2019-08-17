@@ -1,5 +1,9 @@
 # iOSTips
 
+
+### lazy var 에서의 Closure 순환 참조가 발생하는 케이스와 발생하지 않는 케이스 정리
+[Closuer 순환 참조](https://github.com/jinuman/TIL/blob/master/swift/swift-closure-retaincycle.md)
+
 ### iOS 앱 강제 종료?
 [카카오톡방 YRH님]()
 ```
