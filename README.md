@@ -16,3 +16,4 @@ DispatchQueue.main.asyncAfter(deadline: .now() + 1.0) {
 ```
 
 [closeAppElegantly.swift](https://gist.github.com/yoni-g/f6deb954ad31fef288662949bf7c9cbe)
+앱 심사 거절 관련 Comment! 확인 필요!
